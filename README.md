@@ -13,7 +13,7 @@
 
 ## 📈 My Projects
 - **basic_calculator** - Simple C program for arithmetic operations
-- **c---ke-program** - Collection of C++ programs for learning basics
+- **c++-ke-program** - Collection of C++ programs for learning basics
 
 ## 🎯 Goals
 - Master C and C++ fundamentals
@@ -23,7 +23,7 @@
 
 ## 📞 Connect with Me
 - **GitHub:** [princedangi902-ai](https://github.com/princedangi902-ai)
-- **Email:** your-email@example.com (if you want to share)
+- **Email:** princedangi902@gmail.com
 
 ## 💬 Ask me about
 - C programming basics
