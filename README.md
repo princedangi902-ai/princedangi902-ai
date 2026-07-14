@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Prince
+# Hey there! 👋 I'm Prince
 
 ## About Me
 - 🔰 Beginner programmer learning C and C++
